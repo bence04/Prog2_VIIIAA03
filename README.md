@@ -12,3 +12,6 @@ A repo-ba töltöm fel az éppen hallgatott Prog 2 tárgyra készített labor fe
 [Tárgyhonlap](https://infocpp.iit.bme.hu) <br>
 [Jporta](https://jporta.iit.bme.hu/home/)
 
+
+###### Kapcsolat
+Bármi felmerülő probléma esetén: toth.bence [AT] simonyi [DOT] bme [DOT] hu

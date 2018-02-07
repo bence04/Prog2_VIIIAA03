@@ -8,7 +8,7 @@ A repo-ba töltöm fel az éppen hallgatott Prog 2 tárgyra készített labor fe
 
 ## Fontos linkek
 
-[Tantárgyi adatlap](https://portal.vik.bme.hu/kepzes/targyak/VIIIAA03)
-[Tárgyhonlap](https://infocpp.iit.bme.hu)
+[Tantárgyi adatlap](https://portal.vik.bme.hu/kepzes/targyak/VIIIAA03) <br>
+[Tárgyhonlap](https://infocpp.iit.bme.hu) <br>
 [Jporta](https://jporta.iit.bme.hu/home/)
 

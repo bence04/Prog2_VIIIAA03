@@ -1,0 +1,12 @@
+// Fájl: fuggvenyeim.cpp
+// Ebben valósítom meg a gyakran használt függvényeket.
+
+#include "fuggvenyeim.h"
+
+// Két int adat felcserélése
+void csere(int& a, int& b) {
+   int tmp =  a;
+   a =  b;
+   b = tmp;
+}
+// ....
